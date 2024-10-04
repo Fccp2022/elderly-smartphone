@@ -1,0 +1,27 @@
+# Elderly-Friendly Smartphone Project
+
+## Introduction
+This is an open-source project aimed at creating a smartphone tailored for elderly users (65+ years old). The phone features voice interaction, simple navigation, and large-font UI. It is built around the ESP32 microcontroller with custom PCB design and a 3D-printed enclosure.
+
+## Key Features
+- **Dedicated EMS button**: Links to local EMS services with one press.
+- **Voice dialing**: Supports various dialects and accented Mandarin.
+- **Simple navigation**: Physical buttons for power and page navigation.
+- **Large font display**: Ensures readability for elderly users.
+
+## Hardware
+This project provides two hardware options:
+1. **Pre-built hardware**: Customize firmware on existing smartphones.
+2. **Custom PCB**: Design based on ESP32, GSM/LTE module, and audio interfaces.
+
+## Software
+The software includes voice recognition for various dialects, and a basic phone functionality implementation using ESP32.
+
+## Getting Started
+Please refer to the [INSTALL.md](INSTALL.md) for detailed instructions on assembling the hardware and setting up the software.
+
+## Contributing
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
