@@ -1,0 +1,13 @@
+# Installation Guide
+
+## Hardware Setup
+1. Download the PCB files from the `hardware/PCB` folder.
+2. Send the PCB files to a manufacturer (e.g., JLCPCB).
+3. Purchase components based on the provided Bill of Materials (BOM.md).
+4. Assemble the hardware according to the provided diagrams.
+
+## Software Setup
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/elderly-smartphone
+   cd elderly-smartphone
